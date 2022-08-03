@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "317688466012",
+    "firebase_url": "https://fir-dosen-b87aa-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-dosen-b87aa",
+    "storage_bucket": "fir-dosen-b87aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317688466012:android:69e6e5634e31214dd43499",
+        "android_client_info": {
+          "package_name": "com.universitaskuningan.mod10_bayuprasetyo_20190810011"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317688466012-hu859ara5ct5v0r6s9lj9f460l8dieo8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuIyk1n7PqAoFvdGC-eLI8esXqrqFFHS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317688466012-hu859ara5ct5v0r6s9lj9f460l8dieo8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
